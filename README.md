@@ -1,6 +1,7 @@
 # post-app
 
-> My tiptop Nuxt.js project
+> Nuxt.js project
+> Heroku: https://erl-post-app.herokuapp.com/
 
 ## Build Setup
 
