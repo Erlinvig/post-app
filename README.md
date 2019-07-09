@@ -1,7 +1,7 @@
 # post-app
 
 > Nuxt.js project
-$ Start app to Heroku: https://erl-post-app.herokuapp.com/
+# Start app to Heroku: https://erl-post-app.herokuapp.com/
 
 ## Build Setup
 
